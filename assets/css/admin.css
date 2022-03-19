@@ -1,0 +1,21 @@
+.containerContent{
+    padding-left: 310px;
+    padding-top: 150px;
+    padding-right: 15px;
+    width: 100%;
+    height: 100vh;
+}
+
+.containerContent table th{
+    height:30px;
+}
+.containerContentuser{
+    padding-left: 10px;
+    padding-top: 90px;
+    padding-right: 15px;
+    width: 100%;
+    height: 100vh;
+}
+.containerContentuser table th{
+    height:30px;
+}
